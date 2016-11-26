@@ -1,0 +1,3 @@
+//:template
+gh-install
+//;edit
