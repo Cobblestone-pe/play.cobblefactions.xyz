@@ -5,3 +5,8 @@ version: 1.11.0
 main: BrokenLens\FriendSystemPE\Main
 api: 1.4
 commands:
+//"@p//
+command://"/shop"/
+/shop//:"(open)
+(itemopen):"block"
+(ironblock)"money/1000/"(open)/give"blockid"(ironblock)
